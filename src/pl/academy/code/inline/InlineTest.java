@@ -10,6 +10,8 @@ public class InlineTest {
         int b = 4;
         double c = 5.5;
 
+        int r = 4;
+
 
 
 
